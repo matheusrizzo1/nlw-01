@@ -1,3 +1,4 @@
+![Ecoleta](ecoleta.png?raw=true "Ecoleta")
 # Ecoleta 
 
 Next Level Week 1.0
